@@ -11,7 +11,7 @@ class Conversation(object):
                         'Insight': 'make an insightful comment to',
                         'Manipulate': 'manipulate',
                         'Cultural Knowledge': 'talk about history with',
-                        'Animal Handling':'talks about their fondness for raising animals with',
+                        'Animal Handling':'talks about their fondness for animals with',
                         'Intimidate': 'intimidate',
                         'Sleight of Hand': 'impress',
                         'Apologize': 'apologize to',
